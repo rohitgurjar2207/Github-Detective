@@ -23,7 +23,7 @@ To run this project locally, follow these steps:<br>
 
 1.Clone this repository to your local machine using:<br>
 
-git clone https://github.com/your-username/GitHub-Profile-Search-App-Using-React-JS.git<br>
+git clone (https://github.com/rohitgurjar2207/Github-Detective)<br>
 Replace your-username with your GitHub username.<br>
 
 2.Navigate to the project directory:<br>
