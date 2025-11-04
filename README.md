@@ -8,7 +8,7 @@ Here's a template for a README file for your GitHub profile search app project:
 
 This is a simple web application built with React.js that allows users to search for GitHub profiles by username and view detailed profile information.
 
-Features
+<h3>Features</h3>
 
 Search: Users can enter a GitHub username and click a button to search for the profile.
 Profile Display: The app displays the profile picture, username, bio, number of followers, and number of repositories for the searched profile.
