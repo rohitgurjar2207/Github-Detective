@@ -31,8 +31,10 @@ Replace your-username with your GitHub username.<br>
 cd github-profile-search-app<br>
 3.Install the dependencies:<br>
 npm install<br>
+
 4.Start the development server:<br>
 npm start<br>
+
 5.Open your browser and visit http://localhost:3000 to view the app.
 
 <h3>Contributing</h3>
