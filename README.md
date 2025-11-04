@@ -10,10 +10,10 @@ This is a simple web application built with React.js that allows users to search
 
 <h3>Features</h3>
 
-<b>Search:</b> Users can enter a GitHub username and click a button to search for the profile.
-<b>Profile Display:</b> The app displays the profile picture, username, bio, number of followers, and number of repositories for the searched profile.
-<b>Error Handling:</b> If the entered username is not found or there is an error in fetching the data, an error message is displayed.
-<b>Responsive Design:</b> The app is designed to work well on both desktop and mobile devices.
+<b>Search:</b> Users can enter a GitHub username and click a button to search for the profile.<br>
+<b>Profile Display:</b> The app displays the profile picture, username, bio, number of followers, and number of repositories for the searched profile.<br>
+<b>Error Handling:</b> If the entered username is not found or there is an error in fetching the data, an error message is displayed.<br>
+<b>Responsive Design:</b> The app is designed to work well on both desktop and mobile devices.<br>
 <h3>Technologies Used</h3>
 React.js
 GitHub API
