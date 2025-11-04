@@ -19,23 +19,21 @@ React.js
 GitHub API
 HTML/CSS
 <h3>Getting Started</h3>
-To run this project locally, follow these steps:
+To run this project locally, follow these steps:<br>
 
-Clone this repository to your local machine using:
+1.Clone this repository to your local machine using:<br>
 
-git clone https://github.com/your-username/GitHub-Profile-Search-App-Using-React-JS.git
-Replace your-username with your GitHub username.
+git clone https://github.com/your-username/GitHub-Profile-Search-App-Using-React-JS.git<br>
+Replace your-username with your GitHub username.<br>
 
-Navigate to the project directory:
+2.Navigate to the project directory:<br>
 
-cd github-profile-search-app
-Install the dependencies:
-
-npm install
-Start the development server:
-
-npm start
-Open your browser and visit http://localhost:3000 to view the app.
+cd github-profile-search-app<br>
+3.Install the dependencies:<br>
+npm install<br>
+4.Start the development server:<br>
+npm start<br>
+5.Open your browser and visit http://localhost:3000 to view the app.
 
 <h3>Contributing</h3>
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please create an issue or submit a pull request.
